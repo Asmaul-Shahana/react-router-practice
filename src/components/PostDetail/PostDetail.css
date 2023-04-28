@@ -1,0 +1,8 @@
+.post-detail{
+    width: 50%;
+    border: 1px solid pink;
+    background-color: rgb(252, 242, 243);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0 auto;
+}
